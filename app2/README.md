@@ -12,7 +12,7 @@ A simple Flutter-based Todo application that allows users to manage their tasks 
 
 ## Screenshots
 
-![App Screenshot](assets/images/3135823.png)
+![App Screenshot](assets/images/Screenshot_1743664031.png)
 
 ## Installation
 
