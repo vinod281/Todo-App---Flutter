@@ -12,8 +12,8 @@ A simple Flutter-based Todo application that allows users to manage their tasks 
 
 ## Screenshots
 <div style="display: flex; justify-content: center; align-items: center;">
-<img src="Screenshot_1743664031.png" alt="App Screenshot" width="220" height="400">
-<img src="/Screenshot_1743664089.png" alt="App Screenshot" width="220" height="400">
+<img src="Screenshot_1743664031.png" alt="App Screenshot" width="200" height="400">
+<img src="/Screenshot_1743664089.png" alt="App Screenshot" width="200" height="400">
 </div>
 
 ## Installation
