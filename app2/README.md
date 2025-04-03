@@ -14,17 +14,9 @@ A simple Flutter-based Todo application that allows users to manage their tasks 
 
 ![App Screenshot](assets/images/3135823.png)
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-### Prerequisites
-
-- Install [Flutter](https://docs.flutter.dev/get-started/install) on your machine.
-- Ensure you have an emulator or a physical device connected.
-
-### Installation
+## Installation
 
 1. Clone the repository:
    ```sh
    git clone <repository-url>
+
