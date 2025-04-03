@@ -11,7 +11,7 @@ A simple Flutter-based Todo application that allows users to manage their tasks 
 - **Responsive UI**: A clean and responsive user interface built with Flutter.
 
 ## Screenshots
-<img src="assets/images/Screenshot_1743664031.png" alt="App Screenshot" width="400" height="300">
+<img src="assets/images/Screenshot_1743664031.png" alt="App Screenshot" width="200" height="400">
 
 
 ## Installation
