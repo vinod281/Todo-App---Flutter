@@ -20,5 +20,5 @@ A simple Flutter-based Todo application that allows users to manage their tasks 
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/vinod281/Todo-App-Flutter-.git
 
